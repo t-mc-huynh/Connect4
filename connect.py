@@ -3,10 +3,10 @@ import pygame
 import sys
 import math
 
-BLUE = (0,118,206)
-BLACK = (32,33,36)
-RED = (193, 18, 31)
-YELLOW = (247, 127, 0)
+BLUE = (8, 11, 115)
+BLACK = (33, 33, 33)
+RED = (250, 44, 17)
+YELLOW = (250, 250, 17)
 
 ROW = 6
 COLUMN = 7
